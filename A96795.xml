@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter from Alisbury. Directed to Colonell Hampden, Colonell Goodwin, and read in both Houses of Parliament, May 18. 1643. Relating how his Maiesty hath sent 12 or 1400 of his forces, under the command of the Earle of Cleveland, the Lord Shandosse, the Lord Crayford, and Sir Iohn Byron, into those parts, who amongst many other cruelties fired a countrey towne called Swanborne, in seven places, murdered diverse, and amongst the rest one woman big with child was cut in pieces by them. With an ordinance concerning the Arch-bishop of Canterbury. Die Iovis, Maii 18 1643 Ordered by the Lords and Commons assembled in Parliament, that this letter be forthwith printed and published. Iohn Browne Cler. Parliamentor.</title>
+            <author>Wittewrong, John, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96795</idno>
+            <idno type="STC">Wing W3225</idno>
+            <idno type="STC">Thomason E102_15</idno>
+            <idno type="STC">ESTC R18673</idno>
+            <idno type="EEBO-CITATION">99860449</idno>
+            <idno type="PROQUEST">99860449</idno>
+            <idno type="VID">112569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E102[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter from Alisbury. Directed to Colonell Hampden, Colonell Goodwin, and read in both Houses of Parliament, May 18. 1643. Relating how his Maiesty hath sent 12 or 1400 of his forces, under the command of the Earle of Cleveland, the Lord Shandosse, the Lord Crayford, and Sir Iohn Byron, into those parts, who amongst many other cruelties fired a countrey towne called Swanborne, in seven places, murdered diverse, and amongst the rest one woman big with child was cut in pieces by them. With an ordinance concerning the Arch-bishop of Canterbury. Die Iovis, Maii 18 1643 Ordered by the Lords and Commons assembled in Parliament, that this letter be forthwith printed and published. Iohn Browne Cler. Parliamentor.</title>
+                  <author>Wittewrong, John, Sir.</author>
+                  <author>Tyrrill, Thomas.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>May 19. Printed for Iohn Wright in the Old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: John Wittewrong.  Tho. Tyrrill.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goodwin, Arthur, 1593 or 4-1643.</term>
+               <term>Hampden, John, 1594-1643.</term>
+               <term>Laud, William, 1573-1645.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Atrocities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112569:1"/>
+            <pb facs="tcp:112569:1" rendition="simple:additions"/>
+            <p>The Copy of a LETTER From ALISBVRY.</p>
+            <p>Directed to Colonell <hi>Hampden,</hi> Colonell <hi>Goodwin,</hi> and read in both Houſes of Parliament, May 18. 1643.</p>
+            <p>Relating how his Maieſty hath ſent 12 or 1400 of his Forces, under the Command of the Earle of <hi>Cleveland,</hi> the Lord <hi>Shandoſſe,</hi> the Lord <hi>Crayford,</hi> and Sir <hi>Iohn Byron,</hi> into thoſe parts, who amongſt many o<g ref="char:EOLhyphen"/>ther cruelties fired a Countrey Towne called <hi>Swanborne,</hi> in ſeven places, Murdered diverſe, and amongſt the reſt one Woman big with Child was cut in pieces by them.</p>
+            <p>With An Ordinance concerning the Arch-Biſhop of Canterbury.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Iovis, Maii 18 1643</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Letter be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Iohn Browne Cler. Parliamentor.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, May 19. Printed for Iohn Wright in the Old Bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112569:2"/>
+            <pb facs="tcp:112569:2"/>
+            <head>THE Copy of a Letter from AILESBURY directed to Colonell <hi>Hampden,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Goodwyn,</hi> and read in both Houſes of Parliament, <hi>May</hi> 18. 1643.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E cannot but acquaint you, that you may make it knowne to the Houſe of Commons, if you pleaſe, in what miſerable condition this County is at this time, the King hath ſent into theſe parts about 12. or 1400. of his Forces, commanded as wee are informed by the Earle of <hi>Cleaveland,</hi> who is accompani<g ref="char:EOLhyphen"/>ed with the Lord <hi>Shandoſe,</hi> the Lord <hi>craw<g ref="char:EOLhyphen"/>ford,</hi> Sir <hi>John Byron,</hi> and others of Note, who according to the knowne Law of the Land, pillage and plunder all the Towns where they come, they murder our neighbors that make but any defence to preſerve their goods, one woman (amongſt the reſt) bigge
+<pb facs="tcp:112569:3"/> with child, who could make no great reſi<g ref="char:EOLhyphen"/>ſtance, they cut in peeces, what houſhold<g ref="char:EOLhyphen"/>goods they cannot carry away<g ref="char:punc">▪</g> they ſweepe cleane divers of our paſtures, leaving no Cattell behind them, and that no cruelty might be left unexerciſed by them, they have this day fired a Country Village called <hi>Swanbourne,</hi> in 7. places of the Town, for no other reaſon but becauſe they were not willing to be plundered of all they had, and guarded the fire ſo carefully with al their for<g ref="char:EOLhyphen"/>ces divided into ſeverall parts, that no neigh<g ref="char:EOLhyphen"/>bors durſt adventure to come to quench it, all the while it burn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d our Forces in this Garri<g ref="char:EOLhyphen"/>ſon conſiſting only of Foot, ſaving one troope of Horſe, we were not able to encounter with the Enemy, nor relieve our neighbors thus deſpoyled, but yet to interrupt that, which to them is a ſport, we drew out ſome Forces in their ſight as far as with ſafety we could, whereby they have not acted this day all the miſchief they intended to execute before night, but what they have left undone to day, wee expect they will ere they leave us, make up, for they are now ſo ſtrong that they quarter
+<pb facs="tcp:112569:3"/> at <hi>Buckingham</hi> &amp; where they pleaſe, in thoſe parts without reſiſtance. We wiſh the Par<g ref="char:EOLhyphen"/>liaments Army were ſo accomodated, that this Country (which hath hitherto bin, and yet is moſt ready to ſerve &amp; obey the Orders of the Houſes) might not be deſtroyed and made utterly unable to contribute unto it, before we can be relieved by it, but relying upon Gods providence, and the beſt meanes which may be afforded to preſerve us, wee reſt</p>
+            <closer>
+               <dateline>Aileſbury
+<date>16. May, 1645.</date>
+               </dateline>
+               <signed>Your very loving Friends to ſerve you
+<list>
+                     <item>John Wittewrong,</item>
+                     <item>Tho. Tyrrill.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112569:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 16. Maii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>William</hi> Lord Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> ſtandeth Im<g ref="char:EOLhyphen"/>peached in this pre<g ref="char:EOLhyphen"/>ſent Parliament for High Treaſon, and for divers other great of<g ref="char:EOLhyphen"/>fences and miſdemea<g ref="char:EOLhyphen"/>nours, and by reaſon of many great and weighty buſineſſes he cannot yet be brought to tryall for the ſaid offences and miſdemeanours, and he in reſpect of his ſaid Archbiſhopprick of <hi>Ganter<g ref="char:EOLhyphen"/>bury,</hi> hath power to give and Collate fit Clerks divers Parſonages, Vica<g ref="char:EOLhyphen"/>ridges, Prebends, and other Eccleſia<g ref="char:EOLhyphen"/>ſticall promotions and preferments, and if any of them ſhould become voyd, and he left to preferre whom he pleaſe to the anie, the ſame may prove very inconve<g ref="char:EOLhyphen"/>nient, he beſtowing them upon unfit and unworthy perſons; Be it therefore Or<g ref="char:EOLhyphen"/>dered and Ordained, by the Lords and
+<pb facs="tcp:112569:4"/> Commons in this preſent Parliament, that in caſe any of the foreſaid Parſo<g ref="char:EOLhyphen"/>nages, Vicaridges, Prebends, or other Eccleſiaſtical promotions or preferments now be, or ſhall hereafter and before the tryall of the ſaid Lord Archbiſhop be<g ref="char:EOLhyphen"/>come voyd, that the ſaid Lord Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Canterbury</hi> ſhall forbeare to pre<g ref="char:EOLhyphen"/>ſent or Collate any perſon or perſons thereunto, without the leave and Order of both Houſes of Parliament: And it is further Ordered and Ordained, that the ſaid Lord Archbiſhop ſhal from time to time untill his ſaid tryall, preſent and Collate ſuch fit perſon or perſons, to eve<g ref="char:EOLhyphen"/>ry ſuch Parſonage, Vicaridge, Prebend and other Eccleſiaſticall preferment as aforeſaid, which now are, or hereafter before his ſaid tryall ſhall become voyd, as by both Houſes of Parliament ſhall be nominated and appoynted. And it is further Ordered by the ſaid Lords and Commons in Parliament, that al Arch<g ref="char:EOLhyphen"/>deacons, Regiſters, and other Officers, Miniſters, and perſons whatſoever, ſhall
+<pb facs="tcp:112569:5"/> forbeare to give or make any Admiſſion, Inſtitution, Collation, or Induction of any perſon or perſons whatſoever, which by the ſaid Archbiſhop ſhal be preſented, in or to any ſuch Parſonage, Vicaridge, Prebend, or other Eccleſiaſticall pre<g ref="char:EOLhyphen"/>ferment, other then ſuch perſon and per<g ref="char:EOLhyphen"/>ſons as ſhal be nominated and appoyn<g ref="char:EOLhyphen"/>ted by both Houſes of Parliament as a<g ref="char:EOLhyphen"/>foreſaid. And it is laſtly Ordered, that the ſaid Lord Archbiſhop, and the Churchwardens of every Pariſh and other Officers of the Church, where any Parſonage, Viccaridge, Prebend, or other Ec-cleſiaſticall promotions or preferments, in the Donation or guift of the ſaid Archbiſhop is, ſhall within two moneths after the reſpective avoydance thereof, give notice of ſuch avoydance to the Lord Speaker of the Houſe of Peérs for the time being.</p>
+            <closer>
+               <signed>Iohn Browne Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
